@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">Information could not be loaded. Please check your Internet Connection and try again.</string>
+    <string name="poster_content_desc">Movie Poster</string>
+    <string name="description_sample">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum molestie elit, in pellentesque purus auctor ac. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque interdum elementum nisi non vestibulum. Morbi ut nulla arcu. Vestibulum vitae sapien est. Morbi porta tortor sed enim eleifend consectetur. Ut vestibulum finibus velit, ut mollis tellus interdum a.  Morbi fermentum, arcu eget aliquet sodales, est nisi tempus libero, eu tempus quam arcu eget sem. Curabitur quis dictum quam. Etiam quis scelerisque ipsum, eu finibus elit. Fusce et semper eros, sit amet congue libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor finibus luctus. Vestibulum tempus dui eget erat commodo mollis. Cras porttitor semper mauris ac interdum.</string>
+    <string name="menu_item_most_popular">Most Popular</string>
+    <string name="menu_item_top_rated">Top Rated</string>
+    <string name="number_of_votes">(%1$s)</string>
+    <string name="extra_movie">movie</string>
+    <string name="saved_instance_movies">movies</string>
+    <string name="transition_poster">transition_poster</string>
+    <string name="movie_db_api_key">8198d9d3f108b36d132b4fe09e8fe8fd</string>
+    <string name="check_internet_prompt">Oh oh. Something\'s gone wrong. Can you confirm you have a working internet connection?</string>
+    <string name="no_movies">No movies available today. Check back tomorrow…</string>
+    <string name="popularity_sorting_text">SORTED BY POPULARITY</string>
+    <string name="rating_sorting_text">SORTED BY RATINGS</string>
+    <string name="movie_detail_label">About this Movie</string>
+    <string name="release_date">Released %s</string>
+    <string name="plot_synopsis_header">Plot Synopsis</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="title_activity_detail">Movie Detail</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="Overview">Overview</string>
+    <string name="Review">Review</string>
+    <string name="Trailers">Trailer</string>
+    <string name="AddFav">Added To Favourites</string>
+    <string name="RmvFav">Removed From Favourites</string>
+    <string name="action_share">Share</string>
+    <string name="action_favourite">Favourite</string>
+</resources>

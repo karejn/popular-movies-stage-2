@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="prog_bar">42dp</dimen>
+    <dimen name="layout_margin">32dp</dimen>
+    <dimen name="large_margin">16dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="no_margin">0dp</dimen>
+    <dimen name="poster_height">300dp</dimen>
+    <dimen name="textSizeBig">24sp</dimen>
+    <dimen name="textSize">12sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
